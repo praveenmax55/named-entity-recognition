@@ -6,10 +6,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 To develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text.
-```
 
-```
-![output1](d.jpg)
+![DL Ex6](https://github.com/praveenmax55/named-entity-recognition/assets/113497509/9fa0b4e7-56bd-43a3-9c6c-fa6c05974caf)
 
 
 ## DESIGN STEPS
@@ -26,6 +24,10 @@ Create a dictionary for the words and their Index values. Do the same for the ta
 We do this by padding the sequences,This is done to acheive the same length of input data.
 
 ## PROGRAM
+```
+Name:Praveen D
+Ref.No:212222240076
+```
 
 ```
 import matplotlib.pyplot as plt
